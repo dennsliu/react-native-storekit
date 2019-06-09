@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "github:gengqizhi/react-native-storekit",
+      "D:\\workplace\\app"
+    ]
+  ],
+  "_from": "github:gengqizhi/react-native-storekit",
+  "_id": "react-native-storekit@github:gengqizhi/react-native-storekit#616044b094ec76af25aa884a32c41cbfe12bdccf",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-storekit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:gengqizhi/react-native-storekit",
+    "rawSpec": "github:gengqizhi/react-native-storekit",
+    "saveSpec": "github:gengqizhi/react-native-storekit",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:gengqizhi/react-native-storekit#616044b094ec76af25aa884a32c41cbfe12bdccf",
+  "_spec": "github:gengqizhi/react-native-storekit",
+  "_where": "D:\\workplace\\app",
+  "author": {
+    "name": "hansemannn",
+    "email": "hans@hans-knoechel.de",
+    "url": "https://github.com/hansemannn"
+  },
+  "bugs": {
+    "url": "https://github.com/hansemannn/react-native-storekit/issues"
+  },
+  "description": "iOS In-App Purchase using the StoreKit framework",
+  "homepage": "https://github.com/hansemannn/react-native-storekit",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "storekit",
+    "inapp-purchase",
+    "ios"
+  ],
+  "license": "MIT",
+  "name": "react-native-storekit",
+  "peerDependencies": {
+    "react": ">=15.4.0",
+    "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansemannn/react-native-storekit.git"
+  },
+  "rnpm": {
+    "ios": {
+      "project": "ios/RNStoreKit.xcodeproj",
+      "sharedLibraries": [
+        "StoreKit"
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
